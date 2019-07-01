@@ -13,6 +13,7 @@ This Project consists of following api's:
     1. Routes
     2. Controllers
     3. Models
+    4. Server startup
   - Followed the routes abstraction
   - Reusable CRUD controllers for the resource components
   - Followed the HTTP Verbs
