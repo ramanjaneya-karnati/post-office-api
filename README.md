@@ -18,6 +18,7 @@ This Project consists of following api's:
   - Reusable CRUD controllers for the resource components
   - Followed the HTTP Verbs
   - Implemented the unit testing and proper error handling
+  - Followed the standard logging structure and added log file for archives
    
  ## Tech/framework used
  Ex. -
